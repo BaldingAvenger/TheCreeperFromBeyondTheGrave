@@ -1,0 +1,19 @@
+Minecraft Version: 1.9.4
+
+1. Coal Weapons: weaponsplus:CoalSword , weaponsplus:CoalBattleAxe , weaponsplus:CoalBow
+
+2. Lapis Weapons: weaponsplus:LapisSword , weaponsplus:LapisBattleAxe , weaponsplus:LapisBow
+
+3. Redstone Weapons: weaponsplus:RedstoneSword , weaponsplus:RedstoneBattleAxe , weaponsplus:RedstoneBow
+
+4. Emerald Weapons: weaponsplus:EmeraldSword , weaponsplus:EmeraldBattleAxe , weaponsplus:EmeraldBow
+
+5. Obsidian Weapons: weaponsplus:ObsidianSword , weaponsplus:ObsidianBattleAxe , weaponsplus:ObsidianBow
+
+6. Lava Weapons: weaponsplus:LavaSword , weaponsplus:LavaBattleAxe , weaponsplus:LavaBow
+
+7. Super Star Weapons: weaponsplus:SuperStarSword , weaponsplus:SuperStarBattleAxe , weaponsplus:SuperStarBow
+
+8. Guardian Weapons: weaponsplus:GuardianSword , weaponsplus:GuardianBattleAxe , weaponsplus:GuardianBow
+
+9. Ender Dragon Weapons: weaponsplus:EnderDragonSword , weaponsplus:EnderDragonBattleAxe , weaponsplus:EnderDragonBow

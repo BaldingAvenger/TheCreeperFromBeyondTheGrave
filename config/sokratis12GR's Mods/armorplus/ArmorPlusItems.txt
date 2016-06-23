@@ -1,0 +1,45 @@
+1. Coal Armor: armorplus:CoalHelmet , armorplus:CoalChestplate , armorplus:CoalLeggings , armorplus:CoalBoots
+
+2. Lapis Armor: armorplus:LapisHelmet , armorplus:LapisChestplate , armorplus:LapisLeggings , armorplus:LapisBoots
+
+3. Redstone Armor: armorplus:RedstoneHelmet , armorplus:RedstoneChestplate , armorplus:RedstoneLeggings , armorplus:RedstoneBoots
+
+4. Emerald Armor: armorplus:EmeraldHelmet , armorplus:EmeraldChestplate , armorplus:EmeraldLeggings , armorplus:EmeraldBoots
+
+5. Obsidian Armor: armorplus:ObsidianHelmet , armorplus:ObsidianChestplate , armorplus:ObsidianLeggings , armorplus:ObsidianBoots
+
+6. Lava Armor: armorplus:LavaHelmet , armorplus:LavaChestplate , armorplus:LavaLeggings , armorplus:LavaBoots
+
+7. Guardian Armor: armorplus:GuardianHelmet , armorplus:GuardianChestplate , armorplus:GuardianLeggings , armorplus:GuardianBoots
+
+8. Super Star Armor: armorplus:SuperStarHelmet , armorplus:SuperStarChestplate , armorplus:SuperStarLeggings , armorplus:SuperStarBoots
+
+9. Ender Dragon Armor: armorplus:EnderDragonHelmet , armorplus:EnderDragonChestplate , armorplus:EnderDragonLeggings , armorplus:EnderDragonBoots
+
+10. The Ultimate Armor: armorplus:TheUltimateHelmet , armorplus:TheUltimateChestplate , armorplus:TheUltimateLeggings , armorplus:TheUltimateBoots
+
+11. Reinforced Gold Armor: armorplus:RGHelmet , armorplus:RGChestplate , armorplus:RGLeggings , armorplus:RGBoots
+
+12. Reinforced Chain Armor: armorplus:RCHelmet , armorplus:RCChestplate , armorplus:RCLeggings , armorplus:RCBoots
+
+13. Reinforced Iron Armor: armorplus:RIHelmet , armorplus:RIChestplate , armorplus:RILeggings , armorplus:RIBoots
+
+14. Reinforced Diamond Armor: armorplus:RDHelmet , armorplus:RDChestplate , armorplus:RDLeggings , armorplus:RDBoots
+
+15. Cobalt Armor: armorplus:CobaltHelmet , armorplus:CobaltChestplate , armorplus:CobaltLeggings , armorplus:CobaltBoots
+
+16. Ardite  Armor: armorplus:ArditeHelmet , armorplus:ArditeChestplate , armorplus:ArditeLeggings , armorplus:ArditeBoots
+
+17. Manyullyn Armor: armorplus:ManyullynHelmet , armorplus:ManyullynChestplate , armorplus:ManyullynLeggings , armorplus:ManyullynBoots
+
+18. Pig Iron Armor: armorplus:PigIronHelmet , armorplus:PigIronChestplate , armorplus:PigIronLeggings , armorplus:PigIronBoots
+
+19. Knight Slime Armor: armorplus:KnightSlimeHelmet , armorplus:KnightSlimeChestplate , armorplus:KnightSlimeLeggings , armorplus:KnightSlimeBoots
+
+20. Chicken Armor: armorplus:ChickenHelmet , armorplus:ChickenChestplate , armorplus:ChickenLeggings , armorplus:ChickenBoots
+
+21. Slime Armor: armorplus:SlimeHelmet , armorplus:SlimeChestplate , armorplus:SlimeLeggings , armorplus:SlimeBoots
+
+Items: armorplus:Chainmail , armorplus:EnderDragonScale , armorplus:ReinforcingMaterial , armorplus:GuardianScale , armorplus:WitherBone , armorplus:TheUltimateMaterial , armorplus:LavaCrystal
+
+Blocks: armorplus:CompressedObsidian , armorplus:BlockLavaCrystal
